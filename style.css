@@ -1,8 +1,15 @@
 
 .bd{
-  background-image: url("H.JPG");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url("H2.jpg");
+  osition: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
+  background-position: center;
 
 }
 .h{
@@ -13,7 +20,7 @@
   font-style: italic;
 }
 .link{
-  color:#303952;
+  color:#FFD700;
   text-decoration: none;
 
 }
@@ -83,6 +90,11 @@
     width: 30%;
     float: left;
     margin: 25px;
+    height: 460px;
+
+  }
+  .card img{
+    height: 380px;
   }
 
   .card:hover {
