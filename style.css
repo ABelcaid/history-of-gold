@@ -84,8 +84,19 @@
     width: 30%;
     float: left;
     margin: 25px;
+    height: 460px;
   }
 
+  .card img {
+      height: 380px;
+  }
+  .card h4{
+      text-align: center;
+      color: white;
+  }
+  .card p {
+      color: white;
+  }
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
