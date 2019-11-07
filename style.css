@@ -1,3 +1,23 @@
+
+.bd{
+  background-image: url("H.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.h{
+  margin-left: 35%;
+  margin-top: 25%;
+  margin-right: 10%;
+    font-size: 50px;
+  font-style: italic;
+}
+.link{
+  color:#303952;
+  text-decoration: none;
+
+}
+
 * {
     box-sizing: border-box;
 }
@@ -65,11 +85,11 @@
     float: left;
     margin: 25px;
   }
-  
+
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
-  
+
   .container {
     padding: 2px 16px;
   }
