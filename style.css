@@ -1,0 +1,18 @@
+.bd{
+  background-image: url("H.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.h{
+  margin-left: 35%;
+  margin-top: 25%;
+  margin-right: 10%;
+    font-size: 50px;
+  font-style: italic;
+}
+.link{
+  color:#303952;
+  text-decoration: none;
+
+}
