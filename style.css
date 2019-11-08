@@ -70,7 +70,7 @@ body {
     border: 1px solid blue;
     width: 8px;
     background-color: teal;
-    height: 30px;
+    height: 100px;
     margin-left: 750px;
 }
 
@@ -78,7 +78,7 @@ body {
     border: 1px solid blue;
     width: 8px;
     background-color: teal;
-    height: 30px;
+    height: 100px;
     margin-left: 450px;
   
 }
@@ -86,6 +86,7 @@ body {
 .cadre-2 p{
   color: #ecf0f1;
   font-size: 42px;
+  margin-top: -20px;
 }
 
 .cadre-2{
