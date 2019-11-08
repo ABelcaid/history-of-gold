@@ -1,6 +1,9 @@
-
+body {
+  background-image: url("his.jpg");
+  background-repeat: repeat-y;
+  background-size:100%;
+}
 .bd{
-  background-image: url("H2.jpg");
   osition: absolute;
   top: 0;
   left: 0;
